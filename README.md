@@ -7,7 +7,7 @@ brew install beepgrid/tap/beepgrid
 beepgrid version
 ```
 
-[Website](https://beepgrid.com) · [Documentation](https://beepgrid.com/docs/) · [Source](https://github.com/beepgrid/beepgrid) · [Releases](https://github.com/beepgrid/beepgrid/releases)
+[Website](https://beepgrid.com) · [Setup guide](https://github.com/beepgrid/beepgrid/blob/main/docs/PACKAGING.md) · [Documentation](https://beepgrid.com/docs/) · [Source](https://github.com/beepgrid/beepgrid) · [Releases](https://github.com/beepgrid/beepgrid/releases)
 
 The formula uses versioned prebuilt binaries with SHA256 verification. It does not install a database or start background services. PostgreSQL is required when hosting the engine. CLI and MCP clients can connect to an existing server.
 

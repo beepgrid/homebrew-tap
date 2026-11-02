@@ -34,7 +34,7 @@ class Beepgrid < Formula
     <<~EOS
       PostgreSQL is required to host the engine.
       No service is started automatically.
-      Setup: https://beepgrid.com/docs/
+      Setup: https://github.com/beepgrid/beepgrid/blob/main/docs/PACKAGING.md
     EOS
   end
 
