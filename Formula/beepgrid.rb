@@ -5,23 +5,23 @@ class Beepgrid < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/beepgrid/beepgrid/releases/download/v0.2.4/beepgrid_0.2.4_darwin_arm64.tar.gz"
-      sha256 "9fdc3b65dad9f5b1a53df934099584619ab1cb11e64292bfd2560aeff80a7ae7"
+      url "https://github.com/beepgrid/beepgrid/releases/download/v0.2.5/beepgrid_0.2.5_darwin_arm64.tar.gz"
+      sha256 "8a2eadd7343a3b4bd00dc6512bf20927b3fb8582ffcac6edd4e1febe388c2207"
     end
     on_intel do
-      url "https://github.com/beepgrid/beepgrid/releases/download/v0.2.4/beepgrid_0.2.4_darwin_amd64.tar.gz"
-      sha256 "2d4ceadd2631f8aecb974a87cb6daa814789ed46efcda925133198f534850bdb"
+      url "https://github.com/beepgrid/beepgrid/releases/download/v0.2.5/beepgrid_0.2.5_darwin_amd64.tar.gz"
+      sha256 "deb73b37c090d230194aeab1be3b2f3d7cde72071bf0fe48ad2c6953d4079ee8"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/beepgrid/beepgrid/releases/download/v0.2.4/beepgrid_0.2.4_linux_arm64.tar.gz"
-      sha256 "d0e729777741d67cc280879e937b7fb5383bc3da7278865edaf6bc7789a7ea51"
+      url "https://github.com/beepgrid/beepgrid/releases/download/v0.2.5/beepgrid_0.2.5_linux_arm64.tar.gz"
+      sha256 "666408b6acfbd5ddec5c3ff147cea4860d9422c00ac22c21d31de14b3c36f170"
     end
     on_intel do
-      url "https://github.com/beepgrid/beepgrid/releases/download/v0.2.4/beepgrid_0.2.4_linux_amd64.tar.gz"
-      sha256 "f9ec349da2fcef7e597e2345a1ead81eb33b9447ba02b366ac0c0036b80e2386"
+      url "https://github.com/beepgrid/beepgrid/releases/download/v0.2.5/beepgrid_0.2.5_linux_amd64.tar.gz"
+      sha256 "3a9ba4b858a66daa5bcdd5430395b3a43b001af3d5db80cf592280b2c81ab966"
     end
   end
 
